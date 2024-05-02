@@ -8,6 +8,7 @@ import lombok.Data;
 @Builder
 @AllArgsConstructor
 public class CreditCardView {
+    private int cardId;
 
     private String issuanceBank;
 
