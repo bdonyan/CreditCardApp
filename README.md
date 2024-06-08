@@ -1,4 +1,4 @@
-# Shepherd Money User and Credit Card Management API
+# User and Credit Card Management API
 
 ## Introduction
 This project is a Spring Boot application that manages user creation/deletion and the addition of credit cards to user profiles. Users can have zero or more credit cards, and the application provides APIs to manage these relationships.
