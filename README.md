@@ -34,8 +34,3 @@ The controllers should contain enough comment for you to implement their basic f
   - The database name is `database`
   - The username is `sa`
   - The password is `password`
-
-Your chances of getting an interview and/or being given an offer is not affected by this. **However**, as frequent users of generative AI tools, we are keen in spotting traces of generated code. If we believe you have used AI tools without disclosing, we will not move forward with your application.
-
-## Questions?
-If you have project related issues, feel free to raise an issue on the repository :D. If you have more private questions, please reach out to bofanxu@shepherdmoney.com
